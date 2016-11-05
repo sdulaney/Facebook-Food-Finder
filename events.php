@@ -10,6 +10,7 @@
 
 <body>
     <?php include 'grab-profile.php';?>
+    <?php include 'grab-events.php';?>
 </body>
 
 </html>

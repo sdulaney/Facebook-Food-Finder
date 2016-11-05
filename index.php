@@ -11,7 +11,6 @@
 <body>
     <h1>Stage 3: Setting up your user profile</h1>
     <?php include 'login.php'; ?>
-    <!-- want to include login.php -->
 </body>
 
 </html>
