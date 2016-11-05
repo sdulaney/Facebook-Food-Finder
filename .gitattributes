@@ -1,0 +1,5 @@
+css/bootstrap.css linguist-vendored=true
+css/bootstrap.min.css linguist-vendored=true
+font-awesome/* linguist-vendored=true
+fonts/* linguist-vendored=true
+js/* linguist-vendored=true
